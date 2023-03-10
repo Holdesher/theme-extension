@@ -1,7 +1,7 @@
 <h1 align="center">
    <a href="https://marketplace.visualstudio.com/items?itemName=kah3vich.holdesher">
         <br/>
-        <img src="https://raw.githubusercontent.com/Holdesher/Holdesher/main/assets/img/logo.png" alt="logo" width="256">
+        <img src="https://raw.githubusercontent.com/Holdesher/Holdesher/main/assets/img/holdesher.png" alt="logo" width="256">
         <br/>
         <br/>
         Holdesher (Theme)
