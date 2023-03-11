@@ -52,7 +52,7 @@
 	],
 	"homepage": "https://github.com/kah3vich/Nano-Snippets/readme.md",
     "scripts": {
-        "start": "nodemon --exec vsce package",
+        "start": "rm -rf *.vsix & nodemon --exec vsce package",
         "build": "rm -rf *.vsix & vsce package"
     },
     "devDependencies": {
