@@ -7,13 +7,13 @@
         "type": "git",
         "url": "https://github.com/Holdesher/Holdesher"
     },
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.15.0"
     },
     "extensionPack": [
 		"kah3vich.import-at-top",
-        "kah3vich.nanosnippets",
+        "kah3vich.nano-snippets",
         "kah3vich.nano-refactor"
 	],
     "categories": [
@@ -22,8 +22,8 @@
     ],
     "preview": false,
 	"galleryBanner": {
-		"color": "#ffffff",
-		"theme": "light"
+		"color": "#20232A",
+		"theme": "dark"
 	},
     "contributes": {
         "themes": [
