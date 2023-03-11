@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-    <img src="https://svg-readme.vercel.app/readme/subtitle?subtitle='Theme with bright colors for VS Code editor and terminal applications.'" alt="description" width="100%" height="100">
+    <img src="https://svg-readme.vercel.app" alt="description" width="100%" height="100">
 </div>
 
 <br />
