@@ -3,14 +3,14 @@
         <img src="https://raw.githubusercontent.com/Holdesher/Holdesher/main/assets/img/holdesher.png" alt="logo" width="256">
         <br/>
         <br/>
-        <img src="svg-readme.vercel.app/readme/title?title=123" alt="title" width="500" height="40">
+        <img src="https://svg-readme.vercel.app/readme?type=title&content=Holdesher(Theme)" alt="title" width="500" height="40">
         <br/>
         <br/>
     </a>
 </div>
 
 <div align="center">
-    <img src="https://svg-readme.vercel.app" alt="description" width="100%" height="100">
+    <img src="https://svg-readme.vercel.app/readme?type=subtitle&content=Theme with bright colors for VS Code editor and terminal applications." alt="subtitle" width="100%" height="100">
 </div>
 
 <br />
