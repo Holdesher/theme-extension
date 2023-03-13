@@ -13,7 +13,7 @@
     },
     "extensionPack": [
 		"kah3vich.import-at-top",
-        "kah3vich.nano-snippets",
+        "kah3vich.nanosnippets",
         "kah3vich.nano-refactor"
 	],
     "categories": [
@@ -53,9 +53,11 @@
 	"homepage": "https://github.com/kah3vich/Nano-Snippets/readme.md",
     "scripts": {
         "start": "rm -rf *.vsix & nodemon --exec vsce package",
-        "build": "rm -rf *.vsix & vsce package"
+        "build": "rm -rf *.vsix & vsce package",
+        "prepare": "husky install"
     },
     "devDependencies": {
-        "nodemon": "^2.0.20"
+        "nodemon": "^2.0.20",
+        "husky": "^8.0.3"
     }
 }

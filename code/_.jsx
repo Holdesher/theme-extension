@@ -1,8 +1,7 @@
 /**
- * Demo of Shades of Purple VSCode theme.
- *
- * I'm 💜'ing it.
- */
+* Demo of Holdesher VSCode theme.
+*/
+
 import React from 'react';
 import { render } from 'react-dom';
 import styled from 'styled-components';
@@ -36,7 +35,7 @@ class VSCode extends React.Component {
 		return (
 			<Wrap>
 				<button onClick={() => alert('Stop clicking me!')}>{this.props.value}</button>
-				<Message>Testing the React.js Syntax in VSCode Shades of Purple 💜 theme.</Message>
+				<Message>Testing the React.js Syntax in VSCode Holdesher theme.</Message>
 			</Wrap>
 		);
 	}

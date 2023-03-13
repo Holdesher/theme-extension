@@ -43,11 +43,11 @@
 
 <br />
 
-### RELEASE: v0.0.3 - March 12, 2023
+### RELEASE: v0.0.3 - March 13, 2023
 
 <br />
 
->  ### 📦 FEAT: Color config theme & readme & svg for readme
+>  ### 📦 FEAT: Color config theme & readme
 
 <br />
 
