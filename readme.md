@@ -3,7 +3,7 @@
         <img src="https://raw.githubusercontent.com/Holdesher/Holdesher/main/assets/img/holdesher.png" alt="logo" width="256">
         <br/>
         <br/>
-        <img src="https://svg-readme.vercel.app/readme/svg?type=title&content=Holdesher||(Theme)" alt="title" width="500" height="40">
+        <img src="https://svg-readme.vercel.app/readme/svg?type=title&content=Holdesher||(Theme)" alt="title" width="500" height="45">
         <br/>
         <br/>
     </a>
