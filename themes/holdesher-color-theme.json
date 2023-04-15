@@ -668,17 +668,17 @@
     //* 💡 en - Terminal highlight background color.
     //* 💡 ru - Цвет фона выделения терминала.
 
-    "terminal.selectionBackground": "#20232a58",
+    "terminal.selectionBackground": "#61dafb58",
 
     //* 💡 en - The background color of the terminal cursor. Allows you to select the color of the character that is overlaid by the block cursor.
     //* 💡 ru - Цвет фона курсора терминала. Позволяет выбрать цвет символа, который перекрывается блочным курсором.
 
-    "terminalCursor.background": "#61dafb",
+    "terminalCursor.background": "#20232a",
 
     //* 💡 en - The foreground color of the terminal cursor.
     //* 💡 ru - Цвет переднего плана курсора терминала.
 
-    "terminalCursor.foreground": "#20232a",
+    "terminalCursor.foreground": "#61dafb",
 
     //* 💡 en - The color of the border that separates areas in the terminal. The default is panel.border.
     //* 💡 ru - Цвет границы, которая отделяет области в терминале. По умолчанию используется panel.border.
