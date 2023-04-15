@@ -65,3 +65,15 @@
 <br />
 
 <img src="https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/gif/line.gif" height="20" width="100%" alt="https://i.imgur.com/dBaSKWF.gif">
+
+<br />
+
+### RELEASE: v0.0.5 - April 15, 2023
+
+<br />
+
+>  ### 🐛 FIX: Color cursor for terminal
+
+<br />
+
+<img src="https://raw.githubusercontent.com/kah3vich/kah3vich/main/assets/gif/line.gif" height="20" width="100%" alt="https://i.imgur.com/dBaSKWF.gif">
