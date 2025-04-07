@@ -1,16 +1,13 @@
 <div align="center">
-   <a href="https://marketplace.visualstudio.com/items?itemName=kah3vich.holdesher">
-        <img src="https://raw.githubusercontent.com/Holdesher/Holdesher/main/assets/img/holdesher.png" alt="logo" width="256">
-        <br/>
-        <br/>
-        <img src="https://svg-readme.vercel.app/readme/svg?type=title&content=Holdesher||(Theme)" alt="title" width="500" height="50">
-        <br/>
-        <br/>
-    </a>
-</div>
-
-<div align="center">
-    <img src="https://svg-readme.vercel.app/readme/svg?type=subtitle&content=Theme||with||bright||colors||for||VS||Code||editor||and||terminal||applications." alt="subtitle" width="100%" height="100">
+    <img
+        src="https://raw.githubusercontent.com/Holdesher/Holdesher/main/assets/img/holdesher.png"
+        width="256"
+        alt="logo"
+    >
+    <h1>Theme (Holdesher)</h1>
+    <p>
+        Theme - calm and modern, yet clear user interface with neon colors.
+    </p>
 </div>
 
 <br />
@@ -30,4 +27,8 @@
     </a>
 </div>
 
-<!--! https://themes.vscode.one !-->
+### Links:
+
+- [Marketplace](https://marketplace.visualstudio.com/items?itemName=kah3vich.holdesher)
+- [Preview](https://themes.vscode.one/theme/kah3vich/W6YpwH4d)
+- [Generated](https://themes.vscode.one)

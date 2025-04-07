@@ -1,0 +1,26 @@
+/* Checkout file. */
+
+a {
+	text-decoration: none;
+	opacity: 0.8;
+}
+
+.class {
+	display: grid;
+	width: 100%;
+	color: #61dafb;
+}
+
+.class:hover {
+	color: #61dafb35;
+}
+
+#id {
+	display: inline;
+	padding: 5rem;
+	background: #20232a;
+}
+
+#id:focus {
+	background: #353a45;
+}

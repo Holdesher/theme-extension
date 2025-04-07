@@ -1,27 +1,33 @@
 {
-    "name": "holdesher",
+    "name": "theme",
     "publisher": "kah3vich",
     "displayName": "Holdesher (Theme)",
-    "description": "Theme with bright colors for VS Code editor and terminal applications.",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Holdesher/Holdesher"
-    },
-    "version": "0.0.5",
+    "description": "Theme - calm and modern, yet clear user interface with neon colors.",
+    "version": "0.0.6",
     "engines": {
-        "vscode": "^1.15.0"
+        "vscode": "^1.99.0"
     },
-    "extensionPack": [
-		"kah3vich.import-at-top",
-        "kah3vich.nanosnippets",
-        "kah3vich.nano-refactor"
-	],
-    "categories": [
-        "Extension Packs",
-        "Themes"
-    ],
     "preview": false,
-	"galleryBanner": {
+    "icon": "assets/logo.png",
+	"license": "MIT",
+	"author": {
+		"name": "kah3vich",
+		"url": "https://github.com/kah3vich",
+		"email": "holdesher@ro.ru"
+	},	"bugs": {
+		"url": "https://github.com/Holdesher/theme/issues",
+		"email": "holdesher@ro.ru"
+	},
+	"keywords": [
+        "kah3vich",
+		"holdesher",
+        "theme",
+        "neon",
+        "calm",
+        "modern"
+	],
+	"homepage": "https://github.com/Holdesher/theme/readme.md",
+    "galleryBanner": {
 		"color": "#20232A",
 		"theme": "dark"
 	},
@@ -34,30 +40,17 @@
             }
         ]
     },
-    "icon": "assets/logo.png",
-	"license": "MIT",
-	"author": {
-		"name": "kah3vich",
-		"url": "https://github.com/kah3vich",
-		"email": "holdesher@ro.ru"
-	},
-	"bugs": {
-		"url": "https://github.com/Holdesher/Holdesher/issues",
-		"email": "holdesher@ro.ru"
-	},
-	"keywords": [
-        "kah3vich",
-		"holdesher",
-        "theme"
-	],
-	"homepage": "https://github.com/kah3vich/Nano-Snippets/readme.md",
-    "scripts": {
-        "start": "rm -rf *.vsix & nodemon --exec vsce package",
-        "build": "rm -rf *.vsix & vsce package",
-        "prepare": "husky install"
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Holdesher/theme"
     },
-    "devDependencies": {
-        "nodemon": "^2.0.20",
-        "husky": "^8.0.3"
-    }
+    "categories": [
+        "Extension Packs",
+        "Themes"
+    ],
+    "extensionPack": [
+		"kah3vich.import-at-top",
+        "kah3vich.nanosnippets",
+        "kah3vich.nano-refactor"
+	]
 }
