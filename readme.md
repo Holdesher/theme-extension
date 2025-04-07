@@ -1,6 +1,6 @@
 <div align="center">
     <img
-        src="https://raw.githubusercontent.com/Holdesher/Holdesher/main/assets/img/holdesher.png"
+        src="https://raw.githubusercontent.com/Holdesher/theme/main/assets/logo.png"
         width="256"
         alt="logo"
     >
