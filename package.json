@@ -1,56 +1,57 @@
 {
-    "name": "theme",
-    "publisher": "kah3vich",
-    "displayName": "Holdesher (Theme)",
-    "description": "Theme - calm and modern, yet clear user interface with neon colors.",
-    "version": "0.0.6",
-    "engines": {
-        "vscode": "^1.99.0"
-    },
-    "preview": false,
-    "icon": "assets/logo.png",
-	"license": "MIT",
+	"name": "theme",
+	"publisher": "kah3vich",
+	"displayName": "Holdesher (Theme)",
+	"description": "Theme - calm and modern, yet clear user interface with neon colors.",
+	"version": "0.0.6",
+	"engines": {
+		"vscode": "^1.99.0"
+	},
+	"preview": false,
+	"icon": "assets/logo.png",
+	"license": "Apache-2.0",
 	"author": {
 		"name": "kah3vich",
 		"url": "https://github.com/kah3vich",
 		"email": "holdesher@ro.ru"
-	},	"bugs": {
+	},
+	"bugs": {
 		"url": "https://github.com/Holdesher/theme/issues",
 		"email": "holdesher@ro.ru"
 	},
 	"keywords": [
-        "kah3vich",
+		"kah3vich",
 		"holdesher",
-        "theme",
-        "neon",
-        "calm",
-        "modern"
+		"theme",
+		"neon",
+		"calm",
+		"modern"
 	],
 	"homepage": "https://github.com/Holdesher/theme/readme.md",
-    "galleryBanner": {
+	"galleryBanner": {
 		"color": "#20232A",
 		"theme": "dark"
 	},
-    "contributes": {
-        "themes": [
-            {
-                "label": "Holdesher Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/holdesher-color-theme.json"
-            }
-        ]
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Holdesher/theme"
-    },
-    "categories": [
-        "Extension Packs",
-        "Themes"
-    ],
-    "extensionPack": [
+	"contributes": {
+		"themes": [
+			{
+				"label": "Holdesher Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/holdesher-color-theme.json"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Holdesher/theme"
+	},
+	"categories": [
+		"Extension Packs",
+		"Themes"
+	],
+	"extensionPack": [
 		"kah3vich.import-at-top",
-        "kah3vich.nanosnippets",
-        "kah3vich.nano-refactor"
+		"kah3vich.nanosnippets",
+		"kah3vich.nano-refactor"
 	]
 }
