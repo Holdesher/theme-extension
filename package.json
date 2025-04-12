@@ -8,7 +8,7 @@
 		"vscode": "^1.99.0"
 	},
 	"preview": false,
-	"icon": "assets/logo.png",
+	"icon": "https://github.com/Holdesher/.github/blob/main/assets/img/preview.png",
 	"license": "Apache-2.0",
 	"author": {
 		"name": "kah3vich",
