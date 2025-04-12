@@ -11,6 +11,8 @@
     </p>
 </div>
 
+<br />
+
 <div align="center">
     <a href="https://marketplace.visualstudio.com/items?itemName=kah3vich.holdesher">
         <img src="https://vsmarketplacebadges.dev/version-short/kah3vich.holdesher.png?style=for-the-badge&colorA=000000&colorB=FFFFFF&label=VERSION" alt="Version">
