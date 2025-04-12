@@ -29,7 +29,7 @@
 	],
 	"homepage": "https://github.com/Holdesher/theme/readme.md",
 	"galleryBanner": {
-		"color": "#20232A",
+		"color": "#000000",
 		"theme": "dark"
 	},
 	"contributes": {
