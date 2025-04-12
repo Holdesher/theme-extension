@@ -3,7 +3,7 @@
 	"publisher": "kah3vich",
 	"displayName": "Holdesher (Theme)",
 	"description": "Calm and modern, yet clear user interface with neon colors.",
-	"version": "0.0.8",
+	"version": "0.0.9",
 	"engines": {
 		"vscode": "^1.99.0"
 	},
