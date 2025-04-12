@@ -23,3 +23,8 @@
 - 🟩 FEAT: Change color scheme for VSCode v1.99.0 and new styles color ui
 - 🟥 FIX: Readme syntax and content
 - 🟨 DOC: Add links and info theme
+
+### [0.0.7-0.0.8] - April 13, 2025
+
+- 🟩 FEAT: Config content
+- 🟨 DOC: Readme links

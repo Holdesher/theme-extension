@@ -2,8 +2,8 @@
 	"name": "holdesher",
 	"publisher": "kah3vich",
 	"displayName": "Holdesher (Theme)",
-	"description": "Theme - calm and modern, yet clear user interface with neon colors.",
-	"version": "0.0.6",
+	"description": "Calm and modern, yet clear user interface with neon colors.",
+	"version": "0.0.8",
 	"engines": {
 		"vscode": "^1.99.0"
 	},
@@ -11,8 +11,8 @@
 	"icon": "assets/img/preview.png",
 	"license": "Apache-2.0",
 	"author": {
-		"name": "kah3vich",
-		"url": "https://github.com/kah3vich",
+		"name": "holdesher",
+		"url": "https://github.com/Holdesher",
 		"email": "holdesher@ro.ru"
 	},
 	"bugs": {

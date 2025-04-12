@@ -1,12 +1,13 @@
 <div align="center">
-    <img
-        src="https://github.com/Holdesher/.github/blob/main/assets/img/preview.png"
-        width="256"
-        alt="logo"
-    >
+
+![Logo](assets/img/docs.png)
+
+</div>
+
+<div align="center">
     <h1>Theme (Holdesher)</h1>
     <p>
-        Theme - calm and modern, yet clear user interface with neon colors.
+        Calm and modern, yet clear user interface with neon colors.
     </p>
 </div>
 
@@ -28,5 +29,8 @@
 ### Links:
 
 - [Preview](https://themes.vscode.one/theme/kah3vich/W6YpwH4d)
+- [License](./.github/LICENSE)
+- [Changelog](./.github/CHANGELOG.md)
 - [Generated](https://themes.vscode.one)
 - [Marketplace](https://marketplace.visualstudio.com/items?itemName=kah3vich.holdesher)
+- [Contributing](./.github/CONTRIBUTING.md)
