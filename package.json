@@ -1,5 +1,5 @@
 {
-	"name": "theme",
+	"name": "holdesher",
 	"publisher": "kah3vich",
 	"displayName": "Holdesher (Theme)",
 	"description": "Theme - calm and modern, yet clear user interface with neon colors.",
@@ -8,7 +8,7 @@
 		"vscode": "^1.99.0"
 	},
 	"preview": false,
-	"icon": "https://github.com/Holdesher/.github/blob/main/assets/img/preview.png",
+	"icon": "assets/img/preview.png",
 	"license": "Apache-2.0",
 	"author": {
 		"name": "kah3vich",
@@ -53,5 +53,8 @@
 		"kah3vich.import-at-top",
 		"kah3vich.nanosnippets",
 		"kah3vich.nano-refactor"
-	]
+	],
+	"scripts": {
+		"build": "vsce package"
+	}
 }
