@@ -24,7 +24,7 @@
 - 🟥 FIX: Readme syntax and content
 - 🟨 DOC: Add links and info theme
 
-### [0.0.7-0.0.15] - April 13, 2025
+### [0.0.7-0.0.16] - April 13, 2025
 
 - 🟩 FEAT: Config and change theme colors
 - 🟨 DOC: Readme links and syntax content

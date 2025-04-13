@@ -45,6 +45,5 @@
 - [Preview](https://themes.vscode.one/theme/kah3vich/W6YpwH4d)
 - [License](./.github/LICENSE)
 - [Changelog](./.github/CHANGELOG.md)
-- [Generated](https://themes.vscode.one)
 - [Marketplace](https://marketplace.visualstudio.com/items?itemName=kah3vich.holdesher)
 - [Contributing](./.github/CONTRIBUTING.md)
