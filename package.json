@@ -3,9 +3,9 @@
 	"publisher": "kah3vich",
 	"displayName": "Holdesher (Theme)",
 	"description": "Calm and modern, yet clear user interface with neon colors.",
-	"version": "0.0.12",
+	"version": "0.0.15",
 	"engines": {
-		"vscode": "^1.89.0"
+		"vscode": "^1.10.0"
 	},
 	"preview": false,
 	"icon": "assets/img/preview.png",
@@ -35,7 +35,7 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Holdesher Theme",
+				"label": "Holdesher Dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/holdesher-color-theme.json"
 			}
