@@ -28,3 +28,7 @@
 
 - 🟩 FEAT: Config and change theme colors
 - 🟨 DOC: Readme links and syntax content
+
+### [0.0.17] - April 14, 2025
+
+- 🟩 FEAT: Config colors for button and terminal

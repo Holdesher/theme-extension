@@ -339,7 +339,7 @@
 			"name": "css attribute-name.id",
 			"scope": "support.constant.color.w3c-standard-color-name.css",
 			"settings": {
-				"foreground": "#d19a66"
+				"foreground": "#3DD9C8"
 			}
 		},
 		{
@@ -823,7 +823,7 @@
 			"name": "Attribute IDs",
 			"scope": "entity.other.attribute-name.id",
 			"settings": {
-				"foreground": "#61dafb"
+				"foreground": "#3D54D9"
 			}
 		},
 		{
@@ -1996,10 +1996,10 @@
 
 		"button.background": "#61dafb",
 		"button.foreground": "#20232a",
-		"button.secondaryBackground": "#30333d",
+		"button.hoverBackground": "#61dafb50",
+		"button.secondaryBackground": "#61dafb",
 		"button.secondaryForeground": "#20232a",
-		"button.hoverBackground": "#353a45",
-		"button.secondaryHoverBackground": "#353a45",
+		"button.secondaryHoverBackground": "#61dafb50",
 
 		"checkbox.border": "#61dafb",
 		"checkbox.background": "#20232a",
@@ -2226,9 +2226,9 @@
 		"terminal.ansiWhite": "#e5e5e5",
 		"terminal.ansiYellow": "#e5e510",
 		"terminal.foreground": "#ffffff",
-		"terminal.selectionBackground": "#ffffff40",
-		"terminalCursor.background": "#61dafb",
-		"terminalCursor.foreground": "#20232a",
+		"terminal.selectionBackground": "#ffffff90",
+		"terminalCursor.background": "#20232a",
+		"terminalCursor.foreground": "#61dafb",
 
 		"textBlockQuote.background": "#2e3440",
 		"textBlockQuote.border": "#4b5362",
