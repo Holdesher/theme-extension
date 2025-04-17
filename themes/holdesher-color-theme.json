@@ -1991,7 +1991,7 @@
 		"activityBarBadge.background": "#61dafb",
 		"activityBarBadge.foreground": "#20232a",
 
-		"badge.background": "#353a45",
+		"badge.background": "#61dafb",
 		"badge.foreground": "#20232a",
 
 		"button.background": "#61dafb",

@@ -32,3 +32,7 @@
 ### [0.0.17] - April 14, 2025
 
 - 🟩 FEAT: Config colors for button and terminal
+
+### [0.0.18] - April 17, 2025
+
+- 🟩 FEAT: Config colors for badge
