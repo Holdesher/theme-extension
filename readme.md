@@ -42,8 +42,9 @@
 
 ### Links:
 
-- [Preview](https://themes.vscode.one/theme/kah3vich/W6YpwH4d)
+- [VSIX](https://filext.com)
 - [License](./.github/LICENSE)
+- [Preview](https://themes.vscode.one/theme/kah3vich/W6YpwH4d)
 - [Changelog](./.github/CHANGELOG.md)
 - [Marketplace](https://marketplace.visualstudio.com/items?itemName=kah3vich.holdesher)
 - [Contributing](./.github/CONTRIBUTING.md)

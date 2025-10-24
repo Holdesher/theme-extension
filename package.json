@@ -3,11 +3,27 @@
 	"publisher": "kah3vich",
 	"displayName": "Holdesher (Theme)",
 	"description": "Calm and modern, yet clear user interface with neon colors.",
-	"version": "0.0.18",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Holdesher/theme"
+	},
+	"type": "module",
+	"version": "0.0.20",
 	"engines": {
 		"vscode": "^1.73.0"
 	},
 	"preview": false,
+	"extensionPack": [
+		"kah3vich.nanosnippets"
+	],
+	"categories": [
+		"Extension Packs",
+		"Themes"
+	],
+	"galleryBanner": {
+		"color": "#20232A",
+		"theme": "dark"
+	},
 	"icon": "assets/img/preview.png",
 	"license": "Apache-2.0",
 	"author": {
@@ -28,10 +44,6 @@
 		"modern"
 	],
 	"homepage": "https://github.com/Holdesher/theme/readme.md",
-	"galleryBanner": {
-		"color": "#000000",
-		"theme": "dark"
-	},
 	"contributes": {
 		"themes": [
 			{
@@ -41,20 +53,13 @@
 			}
 		]
 	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/Holdesher/theme"
+	"dependencies": {
+		"vsce": "^2.15.0"
 	},
-	"categories": [
-		"Extension Packs",
-		"Themes"
-	],
-	"extensionPack": [
-		"kah3vich.import-at-top",
-		"kah3vich.nanosnippets",
-		"kah3vich.nano-refactor"
-	],
 	"scripts": {
-		"build": "vsce package"
+		"vsix": "rm -rf *.vsix",
+		"vscode:prepublish": "npm run vsix",
+		"build": "vsce package",
+		"prepare": "husky"
 	}
 }
