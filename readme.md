@@ -1,10 +1,5 @@
 <div align="center">
-
-![Logo](assets/img/docs.png)
-
-</div>
-
-<div align="center">
+    <img src="assets/img/docs.png" alt="Theme" width="240" />
     <h1>Theme (Holdesher)</h1>
     <p>
         Calm and modern, yet clear user interface with neon colors.
@@ -28,19 +23,19 @@
     </a>
 </div>
 
-### Palette
+## Palette
 
-| Scope                       | Color                                            | HEX     |
-| --------------------------- | ------------------------------------------------ | ------- |
-| Background                  | ![#20232a](https://fakeimg.pl/35/20232a/?text=+) | #20232a |
-| Secondary background        | ![#181a1f](https://fakeimg.pl/35/181a1f/?text=+) | #181a1f |
-| Primary foreground          | ![#ffffff](https://fakeimg.pl/35/ffffff/?text=+) | #ffffff |
-| Accent/primary action color | ![#61dafb](https://fakeimg.pl/35/61dafb/?text=+) | #61dafb |
-| Active/hover states         | ![#353a45](https://fakeimg.pl/35/353a45/?text=+) | #353a45 |
-| Secondary text              | ![#7f848e](https://fakeimg.pl/35/7f848e/?text=+) | #7f848e |
-| Tertiary text               | ![#5c6370](https://fakeimg.pl/35/5c6370/?text=+) | #5c6370 |
+| Scope                       | HEX     |
+| --------------------------- | ------- |
+| Background                  | #20232a |
+| Secondary background        | #181a1f |
+| Primary foreground          | #ffffff |
+| Accent/primary action color | #61dafb |
+| Active/hover states         | #353a45 |
+| Secondary text              | #7f848e |
+| Tertiary text               | #5c6370 |
 
-### Links:
+## Materials
 
 - [VSIX](https://filext.com)
 - [License](./.github/LICENSE)
