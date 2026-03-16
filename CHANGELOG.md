@@ -1,43 +1,45 @@
 # Changelog
 
-### [0.0.2] - March 8 2023
+All notable changes to this project will be documented in this section. See [releases](https://github.com/holdesher/theme/releases) for commit guidelines.
 
-- 🟩 FEAT: Init theme
+## 0.0.2 (2023-03-08)
 
-### [0.0.3] - March 13 2023
+- FEAT: Init theme
 
-- 🟩 FEAT: Change color scheme
-- 🟨 DOC: Readme syntax and content data
+## 0.0.3 (2023-03-13)
 
-### [0.0.4] - April 7 2023
+- FEAT: Change color scheme
+- DOC: Readme syntax and content data
 
-- 🟩 FEAT: Change color scheme
-- 🟥 FIX: Readme content
+## 0.0.4 (2023-04-07)
 
-### [0.0.5] - April 15 2023
+- FEAT: Change color scheme
+- FIX: Readme content
 
-- 🟥 FIX: Color cursor for terminal
+## 0.0.5 (2023-04-15)
 
-### [0.0.6] - April 7 2025
+- FIX: Color cursor for terminal
 
-- 🟩 FEAT: Change color scheme for VSCode v1.99.0 and new styles color ui
-- 🟥 FIX: Readme syntax and content
-- 🟨 DOC: Add links and info theme
+## 0.0.6 (2025-04-07)
 
-### [0.0.16] - April 13 2025
+- FEAT: Change color scheme for VSCode v1.99.0 and new styles color ui
+- FIX: Readme syntax and content
+- DOC: Add links and info theme
 
-- 🟩 FEAT: Config and change theme colors
-- 🟨 DOC: Readme links and syntax content
+## 0.0.16 (2025-04-13)
 
-### [0.0.17] - April 14 2025
+- FEAT: Config and change theme colors
+- DOC: Readme links and syntax content
 
-- 🟩 FEAT: Config colors for button and terminal
+## 0.0.17 (2025-04-14)
 
-### [0.0.18] - April 17 2025
+- FEAT: Config colors for button and terminal
 
-- 🟩 FEAT: Config colors for badge
+## 0.0.18 (2025-04-17)
 
-### [0.0.20] - October 20 2025
+- FEAT: Config colors for badge
 
-- 🟩 FEAT: Syntax scheme
-- 🟨 DOC: Readme context
+## 0.0.20 (2025-10-20)
+
+- FEAT: Syntax scheme
+- DOC: Readme context
