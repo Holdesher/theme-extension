@@ -1,45 +1,44 @@
 # Changelog
 
-All notable changes to this project will be documented in this section. See [releases](https://github.com/holdesher/theme/releases) for commit guidelines.
+## [0.0.21] - 2026-09-29
 
-## 0.0.2 (2023-03-08)
+- Updated colors for the modern VS Code workbench UI.
+- Raised the minimum supported VS Code version to 1.99.0.
+- Improved Marketplace metadata and keywords.
+- Updated the package toolchain to `@vscode/vsce`.
 
-- FEAT: Init theme
+## [0.0.20] - 2025-10-20
 
-## 0.0.3 (2023-03-13)
+- Updated syntax highlighting and README content.
 
-- FEAT: Change color scheme
-- DOC: Readme syntax and content data
+## [0.0.18] - 2025-04-17
 
-## 0.0.4 (2023-04-07)
+- Updated badge colors.
 
-- FEAT: Change color scheme
-- FIX: Readme content
+## [0.0.17] - 2025-04-14
 
-## 0.0.5 (2023-04-15)
+- Updated button and terminal colors.
 
-- FIX: Color cursor for terminal
+## [0.0.16] - 2025-04-13
 
-## 0.0.6 (2025-04-07)
+- Updated the theme palette and documentation.
 
-- FEAT: Change color scheme for VSCode v1.99.0 and new styles color ui
-- FIX: Readme syntax and content
-- DOC: Add links and info theme
+## [0.0.6] - 2025-04-07
 
-## 0.0.16 (2025-04-13)
+- Updated the color scheme for VS Code 1.99 and refreshed the README.
 
-- FEAT: Config and change theme colors
-- DOC: Readme links and syntax content
+## [0.0.5] - 2023-04-15
 
-## 0.0.17 (2025-04-14)
+- Fixed the terminal cursor color.
 
-- FEAT: Config colors for button and terminal
+## [0.0.4] - 2023-04-07
 
-## 0.0.18 (2025-04-17)
+- Updated the color scheme and README.
 
-- FEAT: Config colors for badge
+## [0.0.3] - 2023-03-13
 
-## 0.0.20 (2025-10-20)
+- Updated the color scheme and README.
 
-- FEAT: Syntax scheme
-- DOC: Readme context
+## [0.0.2] - 2023-03-08
+
+- Initial theme release.

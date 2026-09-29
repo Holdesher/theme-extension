@@ -1,4 +1,4 @@
-/* Checkout file */
+/* Preview file */
 
 var varExample = true && false;
 let letExample = true || false;

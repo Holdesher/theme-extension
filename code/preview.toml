@@ -1,0 +1,10 @@
+name = "Holdesher"
+version = "0.0.21"
+enabled = true
+
+[colors]
+background = "#20232a"
+accent = "#61dafb"
+
+[[features]]
+name = "syntax"

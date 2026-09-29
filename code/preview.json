@@ -1,0 +1,10 @@
+{
+	"name": "Holdesher",
+	"enabled": true,
+	"version": 21,
+	"colors": {
+		"background": "#20232a",
+		"accent": "#61dafb"
+	},
+	"features": ["syntax", "semantic-highlighting"]
+}
