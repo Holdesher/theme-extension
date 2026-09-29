@@ -21,8 +21,8 @@
 
 ## Platform
 
+- [OpenVSX](https://open-vsx.org/extension/kah3vich/holdesher)
 - [Marketplace](https://marketplace.visualstudio.com/items?itemName=kah3vich.holdesher)
-- [OpenVSX](https://open-vsx.org)
 
 ## Palette
 
@@ -44,5 +44,5 @@
 
 ## Materials
 
-- [VSIX](https://filext.com)
 - [Themes](https://themes.vscode.one/theme/kah3vich/W6YpwH4d)
+- [Convert](https://filext.com)

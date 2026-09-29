@@ -4,3 +4,5 @@ code/**
 .github/**
 .husky/**
 node_modules/**
+.env
+.env.example

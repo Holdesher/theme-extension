@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.0.22] - 2026-09-29
+
+- Added Open VSX namespace and publishing commands.
+- Added local environment configuration templates.
+
 ## [0.0.21] - 2026-09-29
 
 - Updated colors for the modern VS Code workbench UI.

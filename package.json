@@ -8,7 +8,7 @@
 		"url": "https://github.com/Holdesher/theme"
 	},
 	"type": "module",
-	"version": "0.0.21",
+	"version": "0.0.22",
 	"engines": {
 		"vscode": "^1.99.0"
 	},
@@ -21,7 +21,7 @@
 		"theme": "dark"
 	},
 	"icon": "assets/images/logo.png",
-	"license": "SEE LICENSE IN LICENSE",
+	"license": "LICENSE",
 	"author": {
 		"name": "holdesher",
 		"url": "https://github.com/holdesher",
@@ -60,11 +60,15 @@
 		]
 	},
 	"scripts": {
+		"build": "vsce package",
 		"clear": "rm -rf *.vsix",
-		"prepublish": "npm run clear",
-		"build": "vsce package"
+		"ovsx:namespace": "dotenv -e .env -- sh -c 'ovsx create-namespace kah3vich -p \"$OVSX_TOKEN\"'",
+		"ovsx:publish": "dotenv -e .env -- sh -c 'ovsx publish holdesher-0.0.22.vsix -p \"$OVSX_TOKEN\"'",
+		"ovsx:publish:build": "npm run build && npm run ovsx:publish"
 	},
 	"devDependencies": {
-		"@vscode/vsce": "^4.0.0"
+		"@vscode/vsce": "^4.0.0",
+		"dotenv-cli": "^8.0.0",
+		"ovsx": "^0.10.7"
 	}
 }
