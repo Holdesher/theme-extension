@@ -1,7 +1,7 @@
 <div align="center">
 	<img src="assets/images/logo.png" alt="Theme" width="240" />
 	<h1>Theme (Holdesher)</h1>
-	<p>🌊 colorful theme extension for VS Code</p>
+	<p>🌊 Colorful theme extension for VS Code</p>
 </div>
 
 ---
