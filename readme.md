@@ -1,19 +1,17 @@
 <div align="center">
-    <img src="assets/images/logo.png" alt="Theme" width="240" />
-    <h1>Theme (Holdesher)</h1>
-    <p>
-        Calm and modern, yet clear user interface with neon colors.
-    </p>
+	<img src="assets/images/logo.png" alt="Theme" width="240" />
+	<h1>Theme (Holdesher)</h1>
+	<p>🌊 colorful theme extension for VS Code</p>
 </div>
 
 ---
 
 <div align="center">
     <a href="https://marketplace.visualstudio.com/items?itemName=kah3vich.holdesher">
-        <img src="https://vsmarketplacebadges.dev/version-short/kah3vich.holdesher.png?style=for-the-badge" alt="Version">&nbsp;
-        <img src="https://vsmarketplacebadges.dev/rating-short/kah3vich.holdesher.png?style=for-the-badge" alt="Rating">&nbsp;
-        <img src="https://vsmarketplacebadges.dev/installs-short/kah3vich.holdesher.png?style=for-the-badge" alt="Installs">&nbsp;
-        <img src="https://vsmarketplacebadges.dev/downloads-short/kah3vich.holdesher.png?style=for-the-badge" alt="Downloads">
+        <img src="https://vsmarketplacebadges.dev/version-short/kah3vich.holdesher.png?style=for-the-badge" alt="Version" width="207" />&nbsp;
+        <img src="https://vsmarketplacebadges.dev/rating-short/kah3vich.holdesher.png?style=for-the-badge" alt="Rating" width="145" />&nbsp;
+        <img src="https://vsmarketplacebadges.dev/installs-short/kah3vich.holdesher.png?style=for-the-badge" alt="Installs" width="153" />&nbsp;
+        <img src="https://vsmarketplacebadges.dev/downloads-short/kah3vich.holdesher.png?style=for-the-badge" alt="Downloads" width="172" />
     </a>
 </div>
 
@@ -38,8 +36,8 @@
 
 ## Local
 
-- [License](.github/LICENSE)
-- [Changelog](.github/CHANGELOG.md)
+- [License](LICENSE)
+- [Changelog](CHANGELOG.md)
 - [Contributing](.github/CONTRIBUTING.md)
 
 ## Materials
